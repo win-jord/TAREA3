@@ -1,0 +1,64 @@
+#principal
+{
+    widht: 800px;
+    height: 2000px;
+    background-color: rgb(235, 172, 229);
+    margin:20px;
+}
+#uno
+{
+    width: 300px;
+    height: 300px;
+    background-color: bisque;
+    border-radius: 200px;
+    display: inline-block;
+    position: relative;
+    left: 150px;
+    top: 150px;
+}
+#ojos 
+{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 200px;
+    display: inline-flexbox;
+    position: fixed;
+    left: 150px;
+    top: 150px;
+}
+
+#dos
+{
+    width: 300px;
+    height: 100px;
+    background-color: green;
+    margin: 10px;
+    display: inline-block;
+    position: fixed;
+    left: 160px;
+    top: 20px;
+}
+#tres
+{
+    width: 90px;
+    height: 90px;
+    background-color: green;
+    margin: 10px ;
+    display: inline-block;
+    position:relative;
+    left: -60px;
+    right: 10;
+    top: -150px;
+}
+#tres-1
+{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    margin: auto;
+    position: relative;
+    top: 100px;
+    transform: rotate(45deg);
+}
+}
